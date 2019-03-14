@@ -1,5 +1,6 @@
 #include <string.h>
 #include <ctype.h>
+#include <stdbool.h>
 #include "debug.h"
 #include "crypto.h"
 #include "pairing.h"
